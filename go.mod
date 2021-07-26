@@ -1,3 +1,3 @@
-module github.com/f4prime/go_mod_test
+module github.com/zzz136454872/go_mod_test
 
 go 1.16
